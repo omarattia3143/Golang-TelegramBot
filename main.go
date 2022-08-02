@@ -5,7 +5,7 @@ import (
 	"log"
 )
 
-const token = "5302189445:AAEvoKn3dJSeUbLdPOJFa8kAWB_qyuS3jQw"
+const token = ""
 
 func main() {
 	bot, err := tgbotapi.NewBotAPI(token)
